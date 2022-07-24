@@ -1,1 +1,1 @@
-<?php include_once("netflix.html");?>
+<?php include("netflix.html");?>
